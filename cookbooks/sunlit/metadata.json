@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+  },
+  "name": "sunlit",
+  "maintainer_email": "fake@email.com",
+  "attributes": {
+  },
+  "license": "All rights reserved",
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "maintainer": "Sunlit Source",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "version": "0.0.1",
+  "recommendations": {
+  },
+  "recipes": {
+    "sunlit::default": "Prints the thank you message"
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "Installs/Configures sunlit",
+  "providing": {
+  }
+}
